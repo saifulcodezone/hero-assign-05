@@ -8,7 +8,7 @@ A small React app where you can pick your favorite technologies and build your o
 
 ## 📸 Preview
 
-[Add a screenshot here]
+![Dev Stack Builder Preview](./src/assets/preview-1.png)
 
 ## 🛠️ Built With
 
