@@ -4,7 +4,7 @@ A small React app where you can pick your favorite technologies and build your o
 
 ## 🔗 Live Site
 
-[Add your deployed link here]
+(https://hero-assign-05-saiful.netlify.app)
 
 ## 📸 Preview
 
