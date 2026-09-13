@@ -3,18 +3,31 @@
 @tailwind utilities;
 
 :root {
-  --brand-gradient: linear-gradient(90deg, #ff7a18 0%, #e6399b 50%, #7c3aed 100%);
+  --brand-gradient: linear-gradient(
+    90deg,
+    #ff7a18 0%,
+    #e6399b 50%,
+    #7c3aed 100%
+  );
 }
 
 /*  Plus Jakarta Sans */
 body {
-  font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+  font-family:
+    "Plus Jakarta Sans",
+    system-ui,
+    -apple-system,
+    sans-serif;
   background-color: #fafafa;
 }
 
 /* font family Inter */
 .font-inter {
-  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  font-family:
+    "Inter",
+    system-ui,
+    -apple-system,
+    sans-serif;
 }
 
 .brand-gradient-text {
@@ -30,7 +43,7 @@ body {
 
 /* Only for "Technologies" */
 .tech-gradient-text {
-  background: linear-gradient(90deg, #EC4899 0%, #8B5CF6 100%);
+  background: linear-gradient(90deg, #ec4899 0%, #8b5cf6 100%);
   -webkit-background-clip: text;
   background-clip: text;
   -webkit-text-fill-color: transparent;

@@ -12,7 +12,6 @@ function StackPanel({ stack, onRemove, onClear }) {
 
       {stack.length === 0 ? (
         <div className="text-center py-10 border-2 border-dashed border-gray-200 rounded-xl">
-          
           <img
             src={emptyCardImg}
             alt="Empty Stack"

@@ -6,7 +6,6 @@ import TechCard from "./components/TechCard";
 import StackPanel from "./components/StackPanel";
 import Footer from "./components/Footer";
 
-
 import Docker from "./assets/technology-icons/Docker.svg";
 import Java from "./assets/technology-icons/Java.svg";
 import JavaScript from "./assets/technology-icons/JavaScript.svg";
